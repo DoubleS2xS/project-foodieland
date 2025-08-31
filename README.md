@@ -35,7 +35,3 @@ https://www.figma.com/design/ucRdTvZwo6sqQu9vVcI8NZ/Foodieland--Copy-?node-id=1-
 - Desktop ≥ 1280px
 - Tablet 768px – 1279px
 - Mobile ≤ 767px
-
----
-
-Happy Cooking! 🍲🍰🥗
